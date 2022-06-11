@@ -1,2 +1,2 @@
-# natural-dates
-Parse dates in natural languaje
+# Natural Dates
+Parse dates in natural language 
